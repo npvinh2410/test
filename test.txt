@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chan11ge1
+=======
+chanqqge12
+>>>>>>> 7838cc8618a212ead28794c207d9b21e5aee2968
